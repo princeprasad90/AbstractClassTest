@@ -7,8 +7,8 @@
     <ProjectGuid>{0CAE9E09-8D52-4CBC-84CB-01D9E93207FB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AbstractInterface_Tests</RootNamespace>
-    <AssemblyName>AbstractInterface Tests</AssemblyName>
+    <RootNamespace>AbstractClassTest</RootNamespace>
+    <AssemblyName>AbstractClassTest</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
