@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassExample Tests", "AbstractInterface Tests\AbstractClassExample Tests.csproj", "{0CAE9E09-8D52-4CBC-84CB-01D9E93207FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassExample Tests", "AbstractClassTest\AbstractClassExample Tests.csproj", "{0CAE9E09-8D52-4CBC-84CB-01D9E93207FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
