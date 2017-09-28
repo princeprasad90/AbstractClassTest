@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace AbstractTest
 {
-    public class Class1
+    public class CalCSum
     {
+        public static void main()
+        {
+            Console.WriteLine("dfsdfsdf");
+            Console.ReadLine();
+        }
     }
 }
